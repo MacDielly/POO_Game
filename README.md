@@ -1,0 +1,1 @@
+Ceci est un mini jeu Ruby réalisé en Orienté Objet.
